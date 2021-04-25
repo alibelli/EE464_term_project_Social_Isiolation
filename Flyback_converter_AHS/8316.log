@@ -1,0 +1,76 @@
+Circuit: * C:\Users\ahmet\OneDrive\Belgeler\EE464_term_project_Social_Isiolation\Flyback_converter_AHS\8316.asc
+
+Error on line 21 : s1 out n004 n002 n001 sw
+	 Unable to find definition of model "sw"
+Limiting rise time of source v1 to 0.1
+Limiting fall time of source v1 to 0.1
+WARNING: Node N001 is floating.
+
+Direct Newton iteration for .op point succeeded.
+Ignoring empty pin current: Ix(endoscreset:in)
+Ignoring empty pin current: Ix(endoscreset:out)
+Ignoring empty pin current: Ix(endleb:in)
+Ignoring empty pin current: Ix(endleb:out)
+Ignoring empty pin current: Ix(maxontime:in)
+Ignoring empty pin current: Ix(maxontime:out)
+Ignoring empty pin current: Ix(dprimeest:in)
+Ignoring empty pin current: Ix(dprimeest:out)
+Ignoring empty pin current: Ix(enddcmblank:in)
+Ignoring empty pin current: Ix(enddcmblank:out)
+Ignoring empty pin current: Ix(endsample:in)
+Ignoring empty pin current: Ix(endsample:out)
+Ignoring empty pin current: Ix(backuposc:in)
+Ignoring empty pin current: Ix(backuposc:out)
+Ignoring empty pin current: Ix(endreset:in)
+Ignoring empty pin current: Ix(endreset:out)
+Ignoring empty pin current: Ix(sleep:in)
+Ignoring empty pin current: Ix(sleep:out)
+Ignoring empty pin current: Ix(u1:2)
+Ignoring empty pin current: Ix(u1:3)
+Ignoring empty pin current: Ix(u1:4)
+Ignoring empty pin current: Ix(u1:5)
+Ignoring empty pin current: Ix(u1:6)
+Ignoring empty pin current: Ix(u1:7)
+Ignoring empty pin current: Ix(endoscreset:in)
+Ignoring empty pin current: Ix(endoscreset:out)
+Ignoring empty pin current: Ix(endleb:in)
+Ignoring empty pin current: Ix(endleb:out)
+Ignoring empty pin current: Ix(maxontime:in)
+Ignoring empty pin current: Ix(maxontime:out)
+Ignoring empty pin current: Ix(dprimeest:in)
+Ignoring empty pin current: Ix(dprimeest:out)
+Ignoring empty pin current: Ix(enddcmblank:in)
+Ignoring empty pin current: Ix(enddcmblank:out)
+Ignoring empty pin current: Ix(endsample:in)
+Ignoring empty pin current: Ix(endsample:out)
+Ignoring empty pin current: Ix(backuposc:in)
+Ignoring empty pin current: Ix(backuposc:out)
+Ignoring empty pin current: Ix(endreset:in)
+Ignoring empty pin current: Ix(endreset:out)
+Ignoring empty pin current: Ix(sleep:in)
+Ignoring empty pin current: Ix(sleep:out)
+Ignoring empty pin current: Ix(u1:2)
+Ignoring empty pin current: Ix(u1:3)
+Ignoring empty pin current: Ix(u1:4)
+Ignoring empty pin current: Ix(u1:5)
+Ignoring empty pin current: Ix(u1:6)
+Ignoring empty pin current: Ix(u1:7)
+
+Date: Sun Apr 25 17:59:37 2021
+Total elapsed time: 320.034 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 22780852
+traniter = 22780807
+tranpoints = 6107318
+accept = 4601822
+rejected = 1505496
+matrix size = 55
+fillins = 25
+solver = Normal
+Thread vector: 23.1/16.6[2] 8.3/6.6[2] 3.9/29.3[1] 0.2/4.8[1]  2592/500
+Matrix Compiler1: 3.39 KB object code size  0.9/1.7/[0.7]
+Matrix Compiler2: 4.15 KB object code size  0.6/2.4/[0.5]
+
