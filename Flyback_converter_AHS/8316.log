@@ -1,13 +1,39 @@
 Circuit: * C:\Users\ahmet\OneDrive\Belgeler\EE464_term_project_Social_Isiolation\Flyback_converter_AHS\8316.asc
 
-Limiting rise time of source v1 to 0.1
-Limiting fall time of source v1 to 0.1
-WARNING: Node N001 is floating.
+Limiting fall time of source v1 to 0.0999999
+Limiting fall time of source vin to 0.0999999
+Instance "m:u3:r": Length shorter than recommended for a level 1 MOSFET.
+Instance "m:u3:r": Width narrower than recommended for a level 1 MOSFET.
+Instance "m:u3:1": Width narrower than recommended for a level 3 MOSFET.
+Direct Newton iteration failed to find .op point.  (Use ".option noopiter" to skip.)
+Starting Gmin stepping
+Gmin = 10
+Gmin = 1.07374
+Gmin = 0.115292
+Gmin = 0.0123794
+Gmin = 0.00132923
+Gmin = 0.000142725
+Gmin = 1.5325e-005
+Gmin = 1.6455e-006
+Gmin = 1.76685e-007
+vernier = 0.5
+vernier = 0.25
+Gmin = 8.87285e-008
+vernier = 0.333333
+vernier = 0.444444
+Gmin = 3.76608e-008
+vernier = 0.592592
+vernier = 0.790123
+Gmin = 1.00079e-008
+vernier = 1
+Gmin = 1.33156e-009
+Gmin = 1.42975e-010
+Gmin = 1.53518e-011
+Gmin = 1.64839e-012
+Gmin = 1.76994e-013
+Gmin = 0
+Gmin stepping succeeded in finding the operating point.
 
-WARNING: Less than two connections to node OUT.  This node is used by RLOAD.
-WARNING: Less than two connections to node N002.  This node is used by V1.
-WARNING: Less than two connections to node N001.  This node is used by V1.
-Direct Newton iteration for .op point succeeded.
 Ignoring empty pin current: Ix(endoscreset:in)
 Ignoring empty pin current: Ix(endoscreset:out)
 Ignoring empty pin current: Ix(endleb:in)
@@ -57,20 +83,21 @@ Ignoring empty pin current: Ix(u1:5)
 Ignoring empty pin current: Ix(u1:6)
 Ignoring empty pin current: Ix(u1:7)
 
-Date: Mon Apr 26 16:24:00 2021
-Total elapsed time: 235.166 seconds.
+Date: Mon Apr 26 23:40:15 2021
+Total elapsed time: 118.519 seconds.
 
 tnom = 27
 temp = 27
 method = modified trap
-totiter = 18406575
-traniter = 18406530
-tranpoints = 4918460
-accept = 3695401
-rejected = 1223059
-matrix size = 55
-fillins = 25
+totiter = 5550356
+traniter = 5549574
+tranpoints = 2458338
+accept = 1729411
+rejected = 728927
+matrix size = 69
+fillins = 33
 solver = Normal
-Matrix Compiler1: 3.35 KB object code size  1.1/0.6/[0.2]
-Matrix Compiler2: 4.12 KB object code size  0.5/0.8/[0.3]
+Thread vector: 12.6/9.4[3] 3.9/4.6[1] 2.4/3.7[1] 0.3/1.9[1]  2592/500
+Matrix Compiler1: 5.03 KB object code size  1.7/0.9/[0.4]
+Matrix Compiler2: 5.56 KB object code size  0.7/1.1/[0.4]
 
