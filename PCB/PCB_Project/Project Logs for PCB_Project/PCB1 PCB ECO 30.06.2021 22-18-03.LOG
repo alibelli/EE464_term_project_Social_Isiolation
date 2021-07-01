@@ -1,0 +1,52 @@
+Removed Pin From Net: NetName=GND Pin=R19-2
+Removed Member From Class: ClassName=Power Member=C11112
+Removed Member From Class: ClassName=Power Member=C21112
+Removed Member From Class: ClassName=Power Member=R1111
+Added Component: Designator=C?(CAPAE127P600-8N)
+Added Component: Designator=Q?(IRF9Z24NSTRLPBF)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "IRF9Z24NSTRLPBF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/irf9z24nstrlpbf/infineon-technologies-ag?region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.infineon.com/dgdl/Infineon-IRF9Z24NS-DS-v01_00-EN.pdf?fileId=5546d46258fc0bc10158fee376ad063e"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "4.83mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Infineon"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "IRF9Z24NSTRLPBF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "942-IRF9Z24NSTRLPBF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Infineon-IR/IRF9Z24NSTRLPBF?qs=9%252BKlkBgLFf2AG4sTwO5bOw%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=R?(ERJ2RKD1004X)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://docs-europe.electrocomponents.com/webdocs/13ba/0900766b813ba21b.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.4mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Panasonic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "ERJ2RKF4023X"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=Z?(SOD3716X145N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.diodes.com/assets/Datasheets/Ds30407.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "1.45mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Diodes Inc."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "DDZ15Q-7"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "621-DDZ15Q-7"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Diodes-Incorporated/DDZ15Q-7?qs=26fMNUst%2FUDpVXvTBmYYxg%3D%3D"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=Input Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-2
+Added Pin To Net: NetName=Input Pin=Q?-3
+Added Pin To Net: NetName=GND Pin=R?-2
+Added Pin To Net: NetName=Input Pin=Z?-1
+Added Pin To Net: NetName=Input_PRO Pin=J2-1
+Added Pin To Net: NetName=Input_PRO Pin=J2-2
+Added Pin To Net: NetName=Input_PRO Pin=J2-3
+Added Pin To Net: NetName=Input_PRO Pin=Q?-2
+Added Net: Name=Input_PRO
+Added Pin To Net: NetName=NetQ?_1 Pin=Q?-1
+Added Pin To Net: NetName=NetQ?_1 Pin=R?-1
+Added Pin To Net: NetName=NetQ?_1 Pin=Z?-2
+Added Net: Name=NetQ?_1
+Added Member To Class: ClassName=Power Member=Component C? 2.7uF
+Added Member To Class: ClassName=Power Member=Component Q? IRF9Z24NSTRLPBF
+Added Member To Class: ClassName=Power Member=Component R? 100
+Added Member To Class: ClassName=Power Member=Component Z? DDZ15Q-7
+Added Room: Name=Control
+Added Room: Name=Power

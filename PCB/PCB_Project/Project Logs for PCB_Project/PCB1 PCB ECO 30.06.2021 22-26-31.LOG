@@ -1,0 +1,7 @@
+Change Component Designator: OldDesignator=Q? NewDesignator=Q11
+Change Component Designator: OldDesignator=R? NewDesignator=R110
+Change Component Designator: OldDesignator=Z? NewDesignator=Z12
+Change Net Name : Old Net Name=NetQ?_1 New Net Name=NetQ11_1
+Added Member To Class: ClassName=Power Member=Component Q11 RSJ151P10TL
+Added Room: Name=Control
+Added Room: Name=Power

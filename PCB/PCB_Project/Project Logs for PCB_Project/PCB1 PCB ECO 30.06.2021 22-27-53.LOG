@@ -1,0 +1,5 @@
+Removed Member From Class: ClassName=Power Member=C?
+Change Component Designator: OldDesignator=C? NewDesignator=C118
+Added Member To Class: ClassName=Power Member=Component C118 C0805
+Added Room: Name=Control
+Added Room: Name=Power

@@ -1,0 +1,20 @@
+Change Component Comment : Designator=R110 Old Comment=100 New Comment=100K
+Change Component Comment : Designator=C22 Old Comment=C0402 New Comment=100nF
+Change Component Comment : Designator=C110 Old Comment=C0603 New Comment=1uF
+Change Component Comment : Designator=C115 Old Comment=C0603 New Comment=1uF
+Change Component Comment : Designator=C116 Old Comment=C0603 New Comment=1uF
+Change Component Comment : Designator=C117 Old Comment=C0603 New Comment=1uF
+Change Component Comment : Designator=C23 Old Comment=C0805 New Comment=10uF
+Change Component Comment : Designator=C24 Old Comment=C0805 New Comment=10uF
+Change Component Comment : Designator=C25 Old Comment=C0805 New Comment=10uF
+Change Component Comment : Designator=C111 Old Comment=C0805 New Comment=10uF
+Change Component Comment : Designator=C112 Old Comment=C0805 New Comment=10uF
+Change Component Comment : Designator=C113 Old Comment=C0805 New Comment=10uF
+Change Component Comment : Designator=C114 Old Comment=C0805 New Comment=10uF
+Change Component Comment : Designator=C15 Old Comment=CAPEDH107 New Comment=100uF
+Change Component Comment : Designator=C16 Old Comment=CAPEDH107 New Comment=100uF
+Change Component Comment : Designator=C17 Old Comment=CAPEDH107 New Comment=100uF
+Change Component Designator: OldDesignator=C118 NewDesignator=C119
+Added Member To Class: ClassName=Power Member=Component C119 2.7uF
+Added Room: Name=Control
+Added Room: Name=Power
